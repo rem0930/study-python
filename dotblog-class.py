@@ -31,3 +31,4 @@ len2 = nc_ta.length
 print(len2)
 y2 = nc_ta.even_or_odd()
 print(y2)
+
